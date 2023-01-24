@@ -1,0 +1,39 @@
+{
+  "data":
+  [
+    {
+     "id":1,
+      "name":"Chattagram"
+    },
+    {
+     "id":1,
+      "name":"Rajshahi"
+    },
+    {
+     "id":1,
+      "name":"Khulna"
+    },
+    {
+     "id":1,
+      "name":"Barisal"
+    },
+    {
+     "id":1,
+      "name":"Sylhet"
+    },
+    {
+     "id":1,
+      "name":"Dhaka"
+    },
+    {
+     "id":1,
+      "name":"Rangpur"
+    },
+    {
+     "id":1,
+      "name":"Mymensingh"
+    },
+     
+  ]
+
+}
